@@ -78,7 +78,6 @@ follow the following to run the codes for each challenge:
 - make changes by adding three intergers in the print() e.g print(intchecker(3, -2, -3))   
 - open terminal and  run python3 Challenge-2.py
 
-3. 
 
 ## Support and contact details 🙂
 
