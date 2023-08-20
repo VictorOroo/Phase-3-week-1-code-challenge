@@ -79,10 +79,9 @@ follow the following to run the codes for each challenge:
 - open terminal and  run python3 Challenge-2.py
 
 
+
 ## Support and contact details 🙂
-
 To make a contribution to the code used or any suggestions you can click on the contact link and email me your suggestions.
-
 - Email: victor.oroo@student.moringaschool.com
 
 ## License
