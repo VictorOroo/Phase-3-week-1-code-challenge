@@ -73,7 +73,7 @@ follow the following to run the codes for each challenge:
 
 3. Challenge 3 (Consonant value)
 - open Challenge-3.py in visual studio code.
-- make changes by adding a string/word in the print() e.g print(extract_consonants("hello"))   
+- make changes by adding a string/word inside the max_value = highest_consonant_value("strength") 
 - open terminal and  run python3 Challenge-3.py
 
 
