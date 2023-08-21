@@ -71,6 +71,12 @@ follow the following to run the codes for each challenge:
 - make changes by adding three intergers in the print() e.g print(intchecker(3, -2, -3))   
 - open terminal and  run python3 Challenge-2.py
 
+3. Challenge 3 (Consonant value)
+- open Challenge-3.py in visual studio code.
+- make changes by adding a string/word in the print() e.g print(extract_consonants("hello"))   
+- open terminal and  run python3 Challenge-3.py
+
+
 
 
 ## Support and contact details 🙂
